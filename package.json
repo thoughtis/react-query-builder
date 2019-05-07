@@ -3,6 +3,7 @@
   "license": "MIT",
   "workspaces": ["packages/*"],
   "version": "0.0.1",
+  "name": "react-query-builder",
   "scripts": {
     "precommit": "lint-staged",
     "bootstrap": "yarn install && lerna bootstrap",
